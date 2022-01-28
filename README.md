@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pratham-19
-- 👀 I’m interested in development
-- 🌱 I’m currently learning Java,Flutter
-- 💞️ I’m looking to collaborate on python,java,mysql,app development
+- 👀 I’m interested in devops
+- 🌱 I’m currently learning java,go
+- 💞️ I’m looking to collaborate on java,python,flutter,go
 - 📫 How to reach me Gmail,Twitter
 
 <!---

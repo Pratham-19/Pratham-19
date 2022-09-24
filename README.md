@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pratham-19
-- 👀 I’m interested in devops
-- 🌱 I’m currently learning java,go
-- 💞️ I’m looking to collaborate on java,python,flutter,go
-- 📫 How to reach me Gmail,Twitter
+- 👀 I’m interested in blockchain,fullstack
+- 🌱 I’m currently learning blockchain
+- 💞️ I’m looking to collaborate on mern,blockchain
+- 📫 How to reach me Gmail,Twitter,LinkedIn
 
 <!---
 Pratham-19/Pratham-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

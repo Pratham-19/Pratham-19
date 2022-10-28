@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pratham-19
-- 👀 I’m interested in blockchain,fullstack
+- 👀 I’m interested in blockchain,mern
 - 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on mern,blockchain
 - 📫 How to reach me Gmail,Twitter,LinkedIn

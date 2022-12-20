@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham-19" alt="pratham-19" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Prathamcodes" target="blank"><img src="https://img.shields.io/twitter/follow/pratham32705025?logo=twitter&style=for-the-badge" alt="pratham32705025" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Prathamcodes" target="blank"><img src="https://img.shields.io/twitter/follow/prathamcodes?logo=twitter&style=for-the-badge" alt="pratham32705025" /></a> </p>
 
 - 🔭 I’m currently working on **NFT Ticketing Project**
 
